@@ -2,6 +2,8 @@
 
 candler is used for windowing libraries to implement their own ways to get window information through a common interface. 
 
+inspired by [rust-windowing/raw-window-handle](https://github.com/rust-windowing/raw-window-handle) and ported to zig for [vitellus](https://github.com/eggyengine/vitellus).
+
 ## add to project
 requires zig `0.16.0`
 
